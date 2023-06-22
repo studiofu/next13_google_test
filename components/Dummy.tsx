@@ -11,6 +11,7 @@ const Dummy = () => {
         <div>
             <SampleModel />
             <h1>{JSON.stringify(session)}</h1>
+            <h2>h2 h2 h2 h2</h2>
         </div>
     )
 }
